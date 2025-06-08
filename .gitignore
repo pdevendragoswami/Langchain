@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 langchain-env/
+langchain_venv/
 
 # Spyder project settings
 .spyderproject
