@@ -8,3 +8,10 @@ bs4
 arxiv
 pymupdf
 wikipedia
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+tqdm
+faiss-cpu
+langchain_chroma
