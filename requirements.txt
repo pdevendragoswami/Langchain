@@ -8,7 +8,7 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain-openai
+langchain_openai
 chromadb
 sentence_transformers
 langchain_huggingface
